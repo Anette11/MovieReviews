@@ -35,7 +35,7 @@ https://api.nytimes.com/svc/movies/v2/reviews/all.json
 
 Be sure to use loading when scrolling the RecyclerView.
 
-It is advisable to use retrofit.
+It is advisable to use Retrofit.
 
 <img src="device-2021-06-30-005320.png" width="216" heigth="384"> <img src="device-2021-06-30-005702.png" width="216" heigth="384">
 
